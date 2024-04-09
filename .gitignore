@@ -1,0 +1,87 @@
+# Spring Boot
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/main/**/static/
+!**/src/main/**/templates/
+!**/src/main/**/resources/
+
+# Logs
+/logs
+
+# IDE
+/.idea
+/.vscode
+
+# Gradle
+/.gradle
+/build/
+
+# Dependency lock files
+/gradle-wrapper.jar
+/gradle-wrapper.properties
+
+# Compiled class file
+*.class
+
+# Maven
+/.mvn
+
+# Intellij
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+# Next.js
+.next/
+out/
+
+# Logs
+logs
+*.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Next.js build
+/.next
+
+# IDE
+/.idea
+/.vscode
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Yarn
+yarn-error.log
+.pnp.*
+.yarn-integrity
+
+
+# Docker
+docker-compose.yml
+docker-compose.override.yml
+docker-compose.override*.yml
+*.Dockerfile
+*.dockerignore
+
+# JSON
+*.json

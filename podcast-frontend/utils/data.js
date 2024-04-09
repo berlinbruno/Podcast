@@ -1,0 +1,16 @@
+export const categories = [
+  "Arts",
+  "Business",
+  "Comedy",
+  "Education",
+  "Health & Fitness",
+  "History",
+  "News & Politics",
+  "Science",
+  "Society & Culture",
+  "Technology",
+  "True Crime",
+  "Sports",
+  "Fiction",
+  "Personal Journals",
+];
