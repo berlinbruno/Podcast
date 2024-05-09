@@ -1,4 +1,4 @@
-# Podcast Platform with User Management
+# Podcast Platform with User Management - IndiaPodcast
 
 This project is a podcast platform developed using Java, Spring Boot, MongoDB, Google Cloud Storage (GCS), and Next.js. It offers a comprehensive solution for managing user accounts, uploading episodes, and providing a seamless listening experience. Robust account security is ensured through JWT authentication.
 
@@ -20,3 +20,7 @@ This project is a podcast platform developed using Java, Spring Boot, MongoDB, G
 <h2>🚀 Demo</h2>
 
 [https://final-year-project-frontend-sddgverzza-el.a.run.app](https://final-year-project-frontend-sddgverzza-el.a.run.app)
+
+## License
+
+Feel free to use this project as you wish. No restrictions apply.
